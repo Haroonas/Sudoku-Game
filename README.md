@@ -2,7 +2,7 @@
 
 A clean, modern, and interactive Sudoku web application built entirely with HTML, CSS, and Vanilla JavaScript. 
 
-**[🔗 Play the Live Demo Here](https://[Haroonas].github.io/sudoku-game/)** *(Replace with your actual GitHub Pages link)*
+**[🔗 Play the Live Demo Here](https://[Haroonas].github.io/sudoku-game/)**
 
 ## ✨ Features
 
